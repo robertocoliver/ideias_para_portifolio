@@ -43,3 +43,8 @@ sugestões para projetos e trabalhos anteriores
 - Contagem regressiva de datas comemorativas do Brasil
 - Página de notícias atuais
 - Uma página que mostra o tempo atual
+#
+# GERENCIADORES
+- Gerenciador de tarefas.
+- Gerenciador de dieta.
+- Gerenciador de exercícios físicos.
