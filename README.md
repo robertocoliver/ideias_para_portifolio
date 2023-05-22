@@ -66,3 +66,11 @@ sugestões para projetos e trabalhos anteriores
 - Gerenciador de tarefas.
 - Gerenciador de dieta.
 - Gerenciador de exercícios físicos.
+
+# API de músicas 
+ Reconhecimento de música 
+- Shazan (https://rapidapi.com/apidojo/api/shazam)
+
+Encontrar músicas
+- Deezer (https://developers.deezer.com/api)
+- iTunes (https://rapidapi.com/volodimir.kudriachenko/api/iTunes)
